@@ -1,0 +1,91 @@
+
+body{
+    margin: 0;
+}
+.container{
+    width: 92%;
+    margin: auto;
+    height: 100%;
+    border: 2px solid red;
+}
+       
+ header{
+    background-color: black;
+    color: white;
+    height: 60px;
+}
+.container{
+    i{
+        margin-left: 1000px;
+        margin-top: 15px;
+        font-size: 20px;
+    }
+    select{
+        background-color: black;
+        color: white;
+        border: none;
+    }
+    #phone{
+        color: yellow;
+        margin-left: 60px;
+        margin-top: 15px;
+        font-size: 20px;
+    }
+    p{
+        margin-left: 1200px;
+        position: relative;
+        bottom: 19px;
+    }
+}
+.main{
+    width: 92%;
+    margin: auto;
+    height: 100%;
+    border: 2px solid red;
+    height: 500px;
+}
+.main{
+    img{
+        margin-top: 20px;
+    }
+}
+.rightside{
+    display: flex;
+}
+.rightside ul{
+    list-style: none;
+    display: flex;
+    gap: 40px;
+    position: relative;
+    left: 200px;
+    bottom: 20px;
+
+    
+}
+.rightside ul li a{
+    color: black;
+    text-decoration: none;
+}
+
+main{
+    background-color: #D6EAF8;
+}
+button{
+    width: 100px;
+    height: 30px;
+    border-radius: 3px;
+    position: relative;
+    bottom: 10px;
+    right: 100px;
+}
+button{
+    .sign{
+        width: 100px;
+        height: 30px;
+        border: 1px solid blue;
+    }
+}
+
+
+
+
